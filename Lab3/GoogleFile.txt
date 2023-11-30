@@ -1,0 +1,22 @@
+N	Language	ISO-639 code	Text
+----------------------------------------
+1	English	en	Good day
+2	French	fr	Bonne journée
+3	Spanish	es	Buen día
+4	Afrikaans	af	Goeie dag
+5	Bulgarian	bg	Добър ден
+6	Arabic	ar	يوم جيد
+7	German	de	Guten Tag
+8	Italian	it	Buona giornata
+9	Japanese	ja	良い一日
+10	Korean	ko	안녕하세요
+11	Portuguese	pt	Bom dia
+12	Russian	ru	Добрий день
+13	Chinese (Simplified)	zh-cn	再会
+14	Chinese (Traditional)	zh-tw	再會
+15	Dutch	nl	Goededag
+16	Greek	el	Καλή μέρα
+17	Hebrew	he	יום טוב
+18	Hindi	hi	शुभ दिन
+19	Turkish	tr	İyi günler
+20	Ukrainian	uk	Добрий день

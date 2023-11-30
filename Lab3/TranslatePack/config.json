@@ -1,0 +1,8 @@
+{
+    "input_file": "Fileinput.txt",
+    "target_language": "de",
+    "output_mode": "file",
+    "max_characters": 800,
+    "max_words": 180,
+    "max_sentences": 18
+}
